@@ -59,7 +59,7 @@ Always exploring new state-of-the-art methods and turning research into practica
 <li>Автоматизация процессов через Airflow
 </ul>
 
-## Контакты 👀
+## 👀 Контакты
 <!--
 <div align="center">
 
