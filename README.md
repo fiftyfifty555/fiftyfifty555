@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Hello, I'm Ivan 👋
+# Привет, я Иван 👋
 
 </div>
 
@@ -29,7 +29,7 @@ I'm a **lab-assistant** with over **_ years** of expertise in designing and depl
 Always exploring new state-of-the-art methods and turning research into practical solutions.
 
 ---
-## :hammer_and_wrench: Languages and tools 🔧
+## :hammer_and_wrench: Языки и инструменты
 
 <div align="center">
 
