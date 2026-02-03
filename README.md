@@ -19,9 +19,9 @@
 
 </div>
 
-## :man_technologist: Обо мне
----
 
+---
+## :man_technologist: Обо мне
 I'm a **lab-assistant** with over **_ years** of expertise in designing and deploying end-to-end machine learning systems, particularly in the field of **mathematical statistics**.
 
 - 
