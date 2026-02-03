@@ -56,6 +56,6 @@ Always exploring new state-of-the-art methods and turning research into practica
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kovalskijiv)
-[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](kovalskijiv@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kovalskijiv@gmail.com)
 
 </div>
